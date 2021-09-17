@@ -10,7 +10,7 @@ int main()
     char c = 'H';
     char d = 72;
 
-    cout << MyGold << endl;
+    cout << "world" << endl;
     cout << HP << endl;
     cout << c << endl;
     cout << d << endl;
